@@ -1,0 +1,15 @@
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\bin\Debug\net6.0\Conways_GameOfLife.exe
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\bin\Debug\net6.0\Conways_GameOfLife.deps.json
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\bin\Debug\net6.0\Conways_GameOfLife.runtimeconfig.json
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\bin\Debug\net6.0\Conways_GameOfLife.dll
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\bin\Debug\net6.0\Conways_GameOfLife.pdb
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.csproj.AssemblyReference.cache
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.AssemblyInfoInputs.cache
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.AssemblyInfo.cs
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.dll
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\refint\Conways_GameOfLife.dll
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.pdb
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\Conways_GameOfLife.genruntimeconfig.cache
+C:\Users\siboa\Desktop\Conways_GameOfLife\Conways_GameOfLife\Conways_GameOfLife\obj\Debug\net6.0\ref\Conways_GameOfLife.dll
